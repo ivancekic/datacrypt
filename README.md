@@ -1,7 +1,7 @@
-# Java app for crypt your pass and some inforamtion
+# Java app for crypt your data
 
 
-## Simple way -- just import projet into IntelliJ IDEA and Run...
+## Simple way -- just import project into IntelliJ IDEA and Run...
 
 
 ## Preview
